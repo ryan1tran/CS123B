@@ -4,9 +4,9 @@ Welcome to Ryan’s (Bioinformatics Data) Analysis Tool, or RAT for short!
 Built entirely in C++, RAT's main purpose is to take in FASTA files and split   
 it into two files, with 80% and 20% of the sequences in each file, respectively.   
 
-It has additional functionality to adjust distance matrixes for UPGMA phylogenetric   
-tree generation. That functionality is incomplete, but you can read more about it   
-in the paper below if you are interested.   
+It has additional functionality to adjust distance matrixes for UPGMA   
+phylogenetric tree generation. That functionality is incomplete, but   
+you can read more about it in the paper below if you are interested.   
 
 [Here is the link to the paper that utilizes this program.](https://docs.google.com/document/d/1H_-oNjrvgFyuNgf0J52cLmy3mNMDlgFJHlLY949bgA8/edit?usp=sharing "Bioinformatics Paper")
 
