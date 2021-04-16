@@ -38,4 +38,4 @@ by running the appropriate command:
 Once the application is running and you see a logo appear on the command line window (as
 seen below), you are all set. From there, read and follow the instructions provided to you.   
    
-![Main View](main-view.png?raw=true "Title")   
+![Main View](main-view.PNG?raw=true "Title")   
